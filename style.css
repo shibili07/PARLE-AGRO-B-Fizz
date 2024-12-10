@@ -1,0 +1,275 @@
+body{
+    margin:0;
+
+}
+
+.main-header{
+    height:70px;
+    width:100%;
+    background-color: #0a0b27;
+    display: flex;
+    position: fixed;
+    z-index: 1;
+   
+
+}
+.left-section{
+    height:70px;
+    width:25%;
+    background-color: #0a0b27;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-logo{
+    inline-size: 121px;
+    margin-right: 183px;
+
+}
+.right-section{
+    height:70px;
+    width:73%;
+    background-color: #0a0b27;
+    
+    
+    
+
+}
+.nev-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 38px;
+    
+ 
+}
+.text-style{
+    text-decoration: none;
+    color:#fff;
+    font-family:Helvetica, Helvetica, Arial, sans-serif;
+    display:flex;
+    align-items:center;
+    letter-spacing: 1px;
+
+
+
+}
+.text-style:hover{
+    color: orangered;
+
+}
+ul{
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+}
+.menu{
+    margin-right: 16px;
+}
+.w-text-style{
+    text-decoration: none;
+    color:#fff;
+    font-family:Helvetica, Helvetica, Arial, sans-serif;
+    display:flex;
+    align-items:center;
+
+}
+.fa-caret-down{
+    color: #fff;
+    margin-left: -22px;
+}
+.banner1{
+    width: 100%;
+    background-color:chartreuse;
+}
+
+.main-box2{
+    width:100%;
+    height: 863px;
+    background-color: green;
+    margin-top: -5px;
+    display: flex;
+}
+.main-box2-part1{
+    height:863px;
+    width:50%;
+    background-color:rgb(255, 204, 49);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2-height{
+    height: 522px;
+}
+
+.main-box2-font{
+    font-family: "EksellDisplayWeb-Small";
+    text-align: center;
+    position: absolute;
+    color: #fff;
+    font-size: 91px;
+    font-weight: bolder;
+    width: 380px;
+    height: 203px;
+   
+}
+.main-box2-part2{
+    height:863px;
+    width:50%;
+    background-color:#fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Meriva, sans-serif;
+
+
+}
+
+.text1-box2{
+    font-family: Helvetica, Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 0px;
+    height: 552px;
+    width: 449px;
+    line-height: 28px;
+    font-size: 24px;
+    margin-bottom: 99px;
+    font-weight: 300;
+
+}
+.main-box3{
+    height: 784px;
+    width: 100%;
+    background-color: aqua;
+
+}
+
+.img3{
+    height: 784px;
+    width: 100%;   
+}
+.main-footer{
+    height:270px;
+    width:100%;
+    background-color:#fff;
+    display:flex;
+   
+    
+
+
+}
+.footer-div1{
+    font-family:"arial";;
+    height: 203px;
+    justify-content: space-around;
+    margin-top: 33px;
+    margin-left: 59px;
+    width: 367px;
+    text-align: start;
+    font-size: 14px;
+
+}
+.footer-div2-1{
+    font-size: small;
+
+}
+.footer-div2-2{
+    line-height: 26px;
+    font-size:15px;
+    font-weight: 700;
+}
+
+.footer-div2{
+    font-family:"arial";;
+    height: 203px;
+    justify-content: space-around;
+    margin-top: 33px;
+    margin-left: 59px;
+    width: 367px;
+    text-align: start;
+    
+
+}
+.footer-div3{
+    font-family:"arial";;
+    height: 203px;
+    justify-content: space-around;
+    margin-top: 33px;
+    margin-left: 59px;
+    width: 367px;
+    text-align: start;
+    font-size: 14px;
+    
+}
+.footer-div3-1{
+
+}
+.a-class{
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 700;
+    color:black;
+
+
+}
+.a-class:hover{
+    text-decoration: underline;
+    color: orangered;
+
+}
+.fab{
+    font-family: Font Awesome\ 5 Brands;
+
+}
+.fab:hover{
+    background-color: orangered;
+}
+.fa-linkedin-in{
+    background-color: black;
+    color: #fff;
+    height: 21px;
+    width: 27px;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 19px;
+    margin-right: 5px;
+}
+     
+ 
+
+.fa-twitter{
+    background-color: black;
+    color: #fff;
+    height: 21px;
+    width: 27px;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 19px;
+    margin-right: 5px;
+
+
+}
+.fa-instagram{
+    background-color: black;
+    color: #fff;
+    height: 21px;
+    width: 27px;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 19px;
+    margin-right: 5px;
+
+}
+.fa-facebook{
+
+    background-color: black;
+    color: #fff;
+    height: 21px;
+    width: 27px;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 19px;
+    margin-right: 5px;
+}
